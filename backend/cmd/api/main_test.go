@@ -8,9 +8,9 @@ import (
 	"net/http/httptest"
 	"testing"
 
-	"leniot/backend/internal/handler"
-	"leniot/backend/internal/model"
-	"leniot/backend/internal/store"
+	"len-geospatial-dashboard/backend/internal/handler"
+	"len-geospatial-dashboard/backend/internal/model"
+	"len-geospatial-dashboard/backend/internal/store"
 )
 
 func setupTestServer(t *testing.T) http.Handler {

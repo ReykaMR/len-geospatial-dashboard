@@ -4,7 +4,7 @@ import (
 	"context"
 	"errors"
 
-	"leniot/backend/internal/model"
+	"len-geospatial-dashboard/backend/internal/model"
 )
 
 var ErrNotFound = errors.New("entity not found")

@@ -8,7 +8,7 @@ import (
 	"strings"
 	"time"
 
-	"leniot/backend/internal/model"
+	"len-geospatial-dashboard/backend/internal/model"
 
 	_ "modernc.org/sqlite"
 )

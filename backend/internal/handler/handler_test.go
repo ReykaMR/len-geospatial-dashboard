@@ -7,7 +7,7 @@ import (
 	"net/http/httptest"
 	"testing"
 
-	"leniot/backend/internal/store"
+	"len-geospatial-dashboard/backend/internal/store"
 )
 
 func newTestHandler(t *testing.T) (*Handler, http.Handler) {
