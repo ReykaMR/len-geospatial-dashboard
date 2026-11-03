@@ -5,7 +5,7 @@ import (
 	"testing"
 	"time"
 
-	"leniot/backend/internal/model"
+	"len-geospatial-dashboard/backend/internal/model"
 )
 
 func newTestStore(t *testing.T) *SQLiteStore {

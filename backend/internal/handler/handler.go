@@ -8,8 +8,8 @@ import (
 	"strings"
 	"time"
 
-	"leniot/backend/internal/model"
-	"leniot/backend/internal/store"
+	"len-geospatial-dashboard/backend/internal/model"
+	"len-geospatial-dashboard/backend/internal/store"
 )
 
 type Handler struct {

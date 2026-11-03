@@ -6,8 +6,8 @@ import (
 	"os"
 	"time"
 
-	"leniot/backend/internal/handler"
-	"leniot/backend/internal/store"
+	"len-geospatial-dashboard/backend/internal/handler"
+	"len-geospatial-dashboard/backend/internal/store"
 )
 
 func main() {
